@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'InsightGlobal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D745A13B57B472CA9CACED7479109DC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7BC892C8FA041BB8EF6A01FFF81ADF1 }}
           package: .
